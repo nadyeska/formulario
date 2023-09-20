@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+body {
+    background-image: url('./ceu.pgn.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+h1 {
+    font-family: 'Covered By Your Grace', cursive;
+    color: black;
+}
+
+forms {
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+textarea {
+    resize: none;
+}
+
+fieldset {
+    width: 500px;
+}
+
+.formulario_inteiro {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
